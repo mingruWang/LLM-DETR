@@ -1,2 +1,3 @@
 # LLM-DETR
-LLM algorithm and DETR, code is coming soon.
+LLM algorithm and DETR.
+The paper is accepted by SMC 2025.
